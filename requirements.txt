@@ -13,7 +13,7 @@ Fiona==1.7.11.post1
 geopandas==0.3.0
 geopy==1.12.0
 idna==2.6
-Jinja2==2.10
+Jinja2==2.11.3
 kiwisolver==1.0.1
 MarkupSafe==1.0
 matplotlib==2.2.2
